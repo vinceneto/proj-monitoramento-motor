@@ -11,7 +11,7 @@
 #include <temperature_lm35.h>
 #include <current_sct013.h>
 
-#define current_pin			34
+#define current_pin		34
 #define temperature_pin		35
 
 /* Crendenciais da rede wireless */
